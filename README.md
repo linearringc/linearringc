@@ -1,6 +1,6 @@
 ## Hi there 👋
-Nice to meet you! I'm linearringc.😼
-🌱 I’m currently learning machine learning
+Nice to meet you! I'm linearringc.  
+🌱 I’m currently learning machine learning  
 🤔 Please feel free to ask me any questions!
 
 <!--
