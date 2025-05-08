@@ -1,7 +1,7 @@
 ## Hi there 👋
-## Nice to meet you! I'm linearringc.🤣
-## 🌱 I’m currently learning machine learning
-## 🤔 Please feel free to ask me any questions!
+Nice to meet you! I'm linearringc.😼
+🌱 I’m currently learning machine learning
+🤔 Please feel free to ask me any questions!
 
 <!--
 **linearringc/linearringc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
