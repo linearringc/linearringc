@@ -1,6 +1,6 @@
 ## Hi there 👋
 Nice to meet you! I'm linearringc.  
-🌱 I’m currently learning machine learning  
+🌱 I’m currently working on ubisoft as a game tester.
 🤔 Please feel free to ask me any questions!
 
 <!--
